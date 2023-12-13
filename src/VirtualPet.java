@@ -118,24 +118,13 @@ public class VirtualPet{
     private void drawPictures(String state){
         switch (state) {
             case "hunger":
-                System.out.println("	                          +#    ####+      +##+      +####    #+                          	");
-                System.out.println("	                          ##         +####      ####+         ##                          	");
-                System.out.println("	                          #+            #        #+           +#                          	");
-                System.out.println("	                          #           ##          ##           #                          	");
-                System.out.println("	                          #         ##              ##         #                          	");
-                System.out.println("	                          #       ##                  ##       #+                         	");
-                System.out.println("	                         ##     ##                      ##     ##                         	");
-                System.out.println("	                         +#   ##      ###        ###      ##   #+                         	");
-                System.out.println("	                           #####                          #####                           	");
-                System.out.println("	                              #+                           #                              	");
-                System.out.println("	                              ##        ##      ##         #                              	");
-                System.out.println("	                              +#         ##+   ##         #+                              	");
-                System.out.println("	                              ###+         ####         ####+                             	");
-                System.out.println("	                             #    ####+   +## ##   +####+   #                             	");
-                System.out.println("	                             ##        +++                 ##                             	");
-                System.out.println("	                             ##                            +#                             	");
-                System.out.println("	                             #+   ######################+  +#                             	");
-                System.out.println("	                              ###+                       +#+                              	");            
+                System.out.println("	       ,                /  |`\".	");
+                System.out.println("	      /(   ,-~~~-.     /   /  o\\	");
+                System.out.println("	     {  \\,`       `~~--\\ _/     `b	");
+                System.out.println("	      \\          ;      `  \\   ,_/ _      _	");
+                System.out.println("	       `\\      , /    /    \\`\"\"\"` (_\\____/_)	");
+                System.out.println("	         \\      `~)---\\     `~~~~)(_/~~~~\\_)	");
+                System.out.println("	          `~~~~~~`     `~~~~~~~~`	");
                 break;
             case "thirst":
                 System.out.println("	                ______    ____	");
